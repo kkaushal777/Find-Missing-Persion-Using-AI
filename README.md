@@ -1,7 +1,5 @@
 # Find Missing Person using AI
-![Issues](https://img.shields.io/github/issues/gaganmanku96/Finding-missing-person-using-AI) ![Stars](https://img.shields.io/github/stars/gaganmanku96/Finding-missing-person-using-AI?style=social)
 
-# [Youtube Link](https://www.youtube.com/channel/UC7ln87o0Gt8OkkHIqEmeDQw/videos)
 
 Hundreds of people (especially children go missing every day) in India. There are various <b>NGO's and Govt Initiatives</b> to help with it. This project tries to implement an  existing/new way to help.
 
@@ -48,7 +46,7 @@ Prerequisites
 Docker (docker-compose as well)
 ```
 ```
-$ git clone https://github.com/gaganmanku96/Finding-missing-person-using-AI
+$ git clone https://github.com/kkaushal777/Find-Missing-Persion-Using-AI
 $ cd Finding-missing-person-using-AI
 $ docker-compose up --build
 $ cd app
@@ -135,21 +133,6 @@ You can this to submit user images or you can create your own mobile app.
 
 Once done you'll have to <b>Click on Refresh</b> button on train KNN Model and then on <b>Match</b> to start Matching Images.
 
-
-## What is left?
- - [x] Login (Authentication)
- - [x] Submit new case
- - [x] Mobile Application (to submit user photos)
- - [ ] View submitted cases
- - [ ] View confirmed cases
- - [ ] Unit tests
  
+Ref: Gagandeep Singh
 
-## Developer:
-## <a href="https://www.linkedin.com/in/gaganmanku96/">Gagandeep Singh</a>
-## Endorse me at LinkedIn if this project was helpful. [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gaganmanku96/)
-
-
-## Vote of Thanks
-- Thanks to [Davis King](https://github.com/davisking) for creating dlib and for providing the trained facial feature
-  detection and face encoding models used in this project.
